@@ -1,0 +1,7 @@
+To run Kafka on you machine you need to download following things
+1. Java :- download Java from below URL
+https://www.oracle.com/technetwork/java/javase/downloads/index.html
+2. ZooKeeper:- Open below URL you will see download lick click on download link it will show list of available mirror site tou can download from any mirror.
+https://zookeeper.apache.org/releases.html#download
+3. Kafka :- Open below goto Binary downloads section and download latest version
+https://kafka.apache.org/downloads
